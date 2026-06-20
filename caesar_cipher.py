@@ -1,7 +1,3 @@
-# ============================================
-#        CAESAR CIPHER PROGRAM
-#        Internship Task - 01
-# ============================================
 
 def encrypt(message, shift):
     """Encrypt a message using Caesar Cipher"""
